@@ -10,8 +10,9 @@ Hi 👋, I'm Rabia Laçin
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000000)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=ffffff)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=ffffff)
-![T-SQL](https://img.shields.io/badge/-T%2DSQL-003B6F?style=flat&logo=microsoft-sql-server&logoColor=ffffff)
-![MSSQL](https://img.shields.io/badge/-MSSQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=ffffff)
+![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=ffffff)
+
+
 
                                                                                                                                                                         
                                                                                                                               
