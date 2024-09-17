@@ -1,6 +1,5 @@
-Hi 👋, I'm Rabia Laçin                                                                                                                                                    
-                                                                                                                                                                        
-                                                                                                                                  
+Hi 👋, I'm Rabia Laçin
+
 
 ## Languages and Tools:
 
@@ -13,3 +12,6 @@ Hi 👋, I'm Rabia Laçin
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=ffffff)
 ![T-SQL](https://img.shields.io/badge/-T%2DSQL-003B6F?style=flat&logo=microsoft-sql-server&logoColor=ffffff)
 ![MSSQL](https://img.shields.io/badge/-MSSQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=ffffff)
+
+                                                                                                                                                                        
+                                                                                                                              
