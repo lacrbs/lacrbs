@@ -1,5 +1,10 @@
 Hi 👋, I'm Rabia Laçin
 
+## Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=ffffff)](www.linkedin.com/in/rabia-laçin-29793a2a3)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=ffffff)](https://github.com/lacrbs)
+
 
 ## Languages and Tools:
 
