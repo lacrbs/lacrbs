@@ -1,14 +1,5 @@
 Hi 👋, I'm Rabia Laçin                                                                                                                                                    
                                                                                                                                                                           
- https://in.pinterest.com/pin/5981412000332558/
-
-
- 📫 How to reach me
-E-posta: [your-email@example.com](rabialcn.25@gmail.com)
-
-
-Connect with me:
-[Heyecan GitHub](https://github.com/lacrbs)
 
 
 ## Languages and Tools:
