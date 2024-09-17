@@ -1,5 +1,11 @@
 Hi 👋, I'm Rabia Laçin
 
+
+## 📫 How to reach me
+
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=ffffff)](mailto:rabialcn.25@gmail.com)
+
+
 ## Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=ffffff)](www.linkedin.com/in/rabia-laçin-29793a2a3)
